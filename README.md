@@ -1,5 +1,5 @@
 # aws-lambda-sysinfo #
-A simple Lambda function that dumps the runtime environment of your AWS Lambda container.
+A simple Lambda function that dumps the runtime environment of the AWS Lambda container.
 
 
 ## Installation ##

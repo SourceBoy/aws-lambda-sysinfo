@@ -1,13 +1,13 @@
 {
 	"version": "1.0.0",
 	"name": "aws-lambda-sysinfo",
-	"description": "A simple Lambda function that dumps the runtime environment of your AWS Lambda container.",
+	"description": "A simple Lambda function that dumps the runtime environment of AWS Lambda container.",
 	"homepage": "https://github.com/SourceBoy/aws-lambda-sysinfo",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/SourceBoy/aws-lambda-sysinfo.git"
 	},
-	"keywords": ["aws", "lambda", "container", "sysinfo", "system", "info"],
+	"keywords": ["aws", "lambda", "sysinfo", "system", "info"],
 	"license": "Apache-2.0",
 	"dependencies": {
 		"systeminformation": "^3.54.0"
